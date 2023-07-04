@@ -1,0 +1,7 @@
+Name,Age,Gender,Salary,Label
+Alice,25,Female,50000,Yes
+Bob,30,Male,60000,No
+Charlie,35,Male,70000,Yes
+Danielle,28,Female,55000,Yes
+Danielle,28,Female,55000,Yes
+Hanna,30,Female,,Yes
